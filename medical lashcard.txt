@@ -6,6 +6,7 @@
     <title>Collaborative Medical Flashcard Study App</title>
     <!-- Load Tailwind CSS -->
     <script src="https://cdn.tailwindcss.com"></script>
+    <!-- Forced GitHub Pages Rebuild -->
     <style>
         /* Custom styles for medical look and card flip effect */
         body {
